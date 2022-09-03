@@ -1,2 +1,2 @@
 # Data-Viz-Course
-DSCI D-590 Data Visualization Course
+YY Ahn's DSCI D-590 Data Visualization Course
